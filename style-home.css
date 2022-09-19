@@ -1,0 +1,116 @@
+header {
+  background: lightgray;
+  padding: 20px 0;
+}
+
+.encabesado {
+  width: 940px;
+  position: relative;
+  margin: 0 auto;
+}
+
+.encabesado a {
+  font-size: 25px;
+  position: absolute;
+  top: 70px;
+  right: 0;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #000000;
+  font-weight: bold;
+}
+
+.encabesado a:hover {
+  color: #c78c19;
+  text-decoration: underline;
+}
+
+.titulo-principal {
+  padding: 20px;
+  font-size: 50px;
+}
+
+#banner {
+  width: 100%;
+}
+
+.principal {
+  font-size: 20px;
+  background: #cccccc;
+  padding: 20px;
+  margin: 0 0 50px 0;
+}
+
+.titulo-centralizado {
+  text-align: center;
+  font-size: 30px;
+  padding: 0 0 20px 0;
+}
+
+p {
+  text-align: center;
+  padding: 0 0 15px 0;
+}
+
+em strong {
+  color: brown;
+}
+
+#mision {
+  font-size: 25px;
+}
+
+.diferenciales {
+  background: #ffffff;
+  padding: 30px 0 30px 30px;
+}
+
+.titulo-diferenciales {
+  text-align: center;
+  font-size: 30px;
+  padding: 0 0 20px 0;
+  font-weight: bold;
+}
+
+.items {
+  font-style: italic;
+  font-size: 25px;
+  font-weight: bold;
+  margin: 30px 0 0 0;
+}
+
+ul {
+  display: inline-block;
+  vertical-align: top;
+  width: 30%;
+  margin-right: 5%;
+}
+
+.imagenDiferenciales {
+  width: 60%;
+}
+
+.productos a {
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #000000;
+  font-weight: bold;
+}
+
+.productos {
+  text-align: center;
+  padding: 40px;
+  font-size: 30px;
+  margin: 60px;
+}
+
+.productos a:hover {
+  color: #c78c19;
+  text-decoration: underline;
+}
+
+/*Aqui inicia el CSS para la HOME*/
+
+.banner {
+  width: 100%;
+}
